@@ -1,4 +1,4 @@
-**_Attualmente sono uno studente di ignegneria informatica presso l' Università di Modena._**
+**_Attualmente sono uno studente magistrale di sicurezza informatica presso l' Università La Sapienza._**
 
 <br>
       
