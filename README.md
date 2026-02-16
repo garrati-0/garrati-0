@@ -24,6 +24,4 @@
 
 </div>
 
-### 📫 Contatti
 
-- **Email**: [tua@email.com](mailto:enrigarrapa@gmail.com)
