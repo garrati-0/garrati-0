@@ -1,7 +1,29 @@
-**_Attualmente sono uno studente magistrale di sicurezza informatica presso l' Università La Sapienza._**
+<div align="center">
 
-<br>
-      
- <!-- ![](https://github-readme-stats.vercel.app/api?username=garrati-0k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true) -->
-      
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garrati-0&line_height=31.5&theme=onedark&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,stars)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garrati-0&layout=compact&theme=onedark&show)
+# 🕵️‍♂️ Ciao, sono Enrico
+
+### 🎓 Cybersecurity Master's Student @ Sapienza University of Rome
+*Pentesting Enthusiast | CTF Player | Malware Analyst in training*
+
+---
+
+### 🛠️ Arsenal & Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=intel&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+
+
+</div>
+
+### 📫 Contatti
+
+- **Email**: [tua@email.com](mailto:enrigarrapa@gmail.com)
