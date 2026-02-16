@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🕵️‍♂️ Ciao, sono Enrico
+#  Ciao, sono Enrico
 
 ### 🎓 Cybersecurity Master's Student @ Sapienza University of Rome
-*Pentesting Enthusiast | CTF Player | Malware Analyst in training*
+
 
 ---
 
